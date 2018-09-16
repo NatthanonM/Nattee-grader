@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536480242 source:d:\doc\intro data struct\natee\histogram\main.cpp
+	<iostream>
+	<map>
+	<algorithm>
+
