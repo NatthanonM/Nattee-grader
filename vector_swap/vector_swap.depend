@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537012139 source:d:\doc\intro data struct\python2cpp\vector_swap\main.cpp
+	<iostream>
+	<vector>
+

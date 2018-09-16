@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537014689 source:d:\doc\year2\intro data struct\natee\stack_concat\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

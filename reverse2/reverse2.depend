@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536408096 source:d:\doc\intro data struct\natee\reverse2\main.cpp
+	<iostream>
+	<vector>
+

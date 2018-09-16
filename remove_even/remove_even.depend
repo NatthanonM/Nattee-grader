@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536478708 source:d:\doc\intro data struct\natee\remove_even\main.cpp
+	<iostream>
+	<vector>
+
