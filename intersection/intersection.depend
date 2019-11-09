@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537781121 source:d:\doc\year2\intro data struct\natee\intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

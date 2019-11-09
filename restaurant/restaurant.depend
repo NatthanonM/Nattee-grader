@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537770209 source:d:\doc\year2\intro data struct\natee\restaurant\main.cpp
+	<iostream>
+	<queue>
+

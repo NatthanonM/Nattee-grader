@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1537775376 source:d:\doc\year2\intro data struct\natee\cucas_rating\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<sstream>
+	<map>
+	<string>
+
